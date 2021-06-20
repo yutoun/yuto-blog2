@@ -12,20 +12,20 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'About me',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'programing',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'English',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Yuto',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
