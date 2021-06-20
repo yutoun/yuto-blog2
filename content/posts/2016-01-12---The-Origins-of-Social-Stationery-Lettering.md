@@ -3,7 +3,7 @@ template: post
 title: うんこ
 slug: the-origins-of-social-stationery-lettering
 socialImage: /media/image-3.jpg
-draft: false
+draft: true
 date: 2016-12-01T22:40:32.169Z
 description: Pellentesque habitant morbi tristique senectus et netus et
   malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae,
